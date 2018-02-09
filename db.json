@@ -1,4 +1,5 @@
-[
+{
+  "entities": [
   {
     "sponsors_of": null,
     "name": "American Heroes Airshow",
@@ -1857,3 +1858,4 @@
     "total_funds_raised": null
   }
 ]
+}
